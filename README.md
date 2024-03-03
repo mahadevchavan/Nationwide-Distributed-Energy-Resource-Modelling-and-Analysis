@@ -6,6 +6,7 @@ BI Dashboards using Tablue.
 Architecture
 
 #![image](https://github.com/mahadevchavan/Nationwide-Distributed-Energy-Resource-Modelling-and-Analysis/assets/115335546/788a818f-bfd3-4fc8-bed7-3a619d3f28ec)
+
 ![image](https://github.com/mahadevchavan/Nationwide-Distributed-Energy-Resource-Modelling-and-Analysis/assets/115335546/fff5ff1b-0321-497b-8b4f-bb9961a9a948)
 
 IAM Roles
