@@ -10,8 +10,10 @@ IAM Roles
 ![image](https://github.com/mahadevchavan/Nationwide-Distributed-Energy-Resource-Modelling-and-Analysis/assets/115335546/9b99b9ba-156f-4b65-a190-380d6e4e1c6e)
 
 Crawler 
+
 ![image](https://github.com/mahadevchavan/Nationwide-Distributed-Energy-Resource-Modelling-and-Analysis/assets/115335546/8c6a0b02-6aa5-4095-877e-ab3cd2b3fbca)
 
 Crawled Data into the S3
+
 ![image](https://github.com/mahadevchavan/Nationwide-Distributed-Energy-Resource-Modelling-and-Analysis/assets/115335546/ee1b13f3-78b4-4b50-bbb9-eb93780256b2)
 
